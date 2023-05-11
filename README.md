@@ -116,7 +116,6 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
 ### Array Value of x :
 ![237655268-033e44c7-01d8-4694-af58-e47e586bc326](https://github.com/srikarthickeyanganapathy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393842/396431c8-6cf5-457b-be06-52999fdd6c64)
 
